@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536314001828",
+    "project_id": "aygo-parking",
+    "storage_bucket": "aygo-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536314001828:android:379d681dccc38d376d6931",
+        "android_client_info": {
+          "package_name": "com.ab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536314001828-fq7k8ostrbsmuj35ktsvmeuv9cqpqphg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LkaEtFXfBQKyyUdOWv7V9yO3ohrhpP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536314001828-fq7k8ostrbsmuj35ktsvmeuv9cqpqphg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
